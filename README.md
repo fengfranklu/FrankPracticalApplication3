@@ -47,7 +47,7 @@ Our dataset comes from the UCI Machine Learning repository. The data is from a P
 
 
 
-Notebook:
+## Notebook:
 
 [Frank_Practical_Application_III_Comparing_Classifiers.ipynb](Frank_Practical_Application_III_Comparing_Classifiers.ipynb)
 
